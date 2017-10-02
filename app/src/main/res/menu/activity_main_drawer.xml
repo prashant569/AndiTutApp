@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/his"
+            android:title="History" />
+        <item
+            android:id="@+id/life"
+            android:title="LifeCycle" />
+        <item
+            android:id="@+id/ori"
+
+            android:title="orientation" />
+        <item
+            android:id="@+id/hand"
+            android:title="event handling" />
+        <item
+            android:id="@+id/tost"
+            android:title="Toast" />
+        <item
+            android:id="@+id/inf"
+            android:title="layout_inflator" />
+        <item
+            android:id="@+id/vw"
+            android:title=" view group" />
+        <item
+            android:id="@+id/db"
+            android:title="dialog box" />
+        <item
+            android:id="@+id/act"
+            android:title="Auto complete Textview" />
+        <item
+            android:id="@+id/tb"
+            android:title="Toggle button" />
+        <item
+            android:id="@+id/rb"
+            android:title="Radio Button" />
+        <item
+            android:id="@+id/cb"
+            android:title="Check box" />
+        <item
+            android:id="@+id/spin"
+            android:title="Spinner" />
+        <item
+            android:id="@+id/aa"
+            android:title="Array Adapter" />
+        <item
+            android:id="@+id/intnt"
+            android:title="intent" />
+        <item
+            android:id="@+id/frg"
+            android:title="fragment" />
+        <item
+            android:id="@+id/vp"
+            android:title="view pager" />
+        <item
+            android:id="@+id/tba"
+            android:title="tab" />
+        <item
+            android:id="@+id/br"
+            android:title="broadcast receiver" />
+        <item
+            android:id="@+id/mnu"
+            android:title="menus" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+
+                android:title="rate us" />
+            <item
+                android:id="@+id/cus"
+
+                android:title="contact us" />
+        </menu>
+    </item>
+
+</menu>
